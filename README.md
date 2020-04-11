@@ -1,5 +1,5 @@
 # git_learning
 Tish is git learning.
-New line added
+This is for testing.
 GitHub is a repo.
 
