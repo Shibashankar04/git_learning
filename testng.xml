@@ -5,7 +5,7 @@
 		<classes>
 			<class name="com.may.maven.Facebook" />
 			<class name="com.may.maven.SecondTest" />
-			<class name="com.may.maven.FirstTest" />
+			 <!-- <class name="com.may.maven.FirstTest" />  -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
