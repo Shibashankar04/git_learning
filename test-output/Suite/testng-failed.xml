@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.may.maven.Facebook">
+      <class name="com.may.maven.Launch_BU">
         <methods>
-          <include name="facebookLogin"/>
+          <include name="home_bu"/>
         </methods>
-      </class> <!-- com.may.maven.Facebook -->
+      </class> <!-- com.may.maven.Launch_BU -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
