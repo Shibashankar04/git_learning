@@ -17,7 +17,7 @@ public class FirstTest {
 		
 		System.out.println(title);
 		
-		driver.quit();
+		driver.close();
 	}
 
 }
